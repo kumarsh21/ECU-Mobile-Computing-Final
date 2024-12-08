@@ -9,15 +9,19 @@ Features
 
 How to Use
 1.	Run the program in a Android Studio.
-2.	On Screen 1: 
+2.	On Screen 1:
+   
 •	Enter your City and state name in this format “Greenville nc).
 •	Pick your desired cuisine types.
-3.	On Screen 2: 
+4.	On Screen 2: 
+
 •	Pick choices from each cusines that you selected.
-4.	On Screen 3:
+5.	On Screen 3:
+
 •	There will be a list generated randomly of your based on your choices on screen 2.
 •	You can further yes and no to choices.
-5.	Based on your choices on Screen 3, app will make the selection for you.
+
+6.	Based on your choices on Screen 3, app will make the selection for you.
 
 
 Requirements
