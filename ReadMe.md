@@ -27,6 +27,7 @@ How to Use
 
 Requirements
 •	IDE: Android Studio
+
 How to Run
 1.	Clone the repository
 2.	Download files into your Android Studio and Run.
