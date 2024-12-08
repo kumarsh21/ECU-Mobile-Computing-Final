@@ -26,6 +26,13 @@ How to Use
 
 6.	Based on your choices on Screen 3, the app will select for you.
 
+Technologies:
+
+1. Microsoft Excel​
+
+2. SQL Lite Database​
+
+3. Canva for logo
 
 Requirements
 
